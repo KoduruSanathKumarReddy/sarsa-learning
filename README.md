@@ -14,6 +14,8 @@ Include the steps involved in the SARSA Learning algorithm
 
 # Developed by:Koduru Sanath Kumar Reddy
 # Regno: 212221240024
+
+~~~~
 def sarsa(env,
           gamma=1.0,
           init_alpha=0.5,
@@ -46,6 +48,7 @@ def sarsa(env,
     V=np.max(Q,axis=1)
     pi=lambda s:{s:a for s,a in enumerate(np.argmax(Q,axis=1))}[s]
     return Q, V, pi, Q_track, pi_track
+~~~
 
 ## OUTPUT:
 Mention the optimal policy, optimal value function , success rate for the optimal policy.
