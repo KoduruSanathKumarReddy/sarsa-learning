@@ -10,8 +10,8 @@ SARSA Stands for STATE,ACTION,REWARD,NEXT STATE,NEXT ACTION.
 ## SARSA LEARNING ALGORITHM
 Include the steps involved in the SARSA Learning algorithm
 ~~~
-# Developed by:Koduru Sanath Kumar Reddy
-# Regno: 212221240024
+Developed by:Koduru Sanath Kumar Reddy
+Regno: 212221240024
 ~~~
 
 ## SARSA LEARNING FUNCTION
