@@ -54,9 +54,8 @@ def sarsa(env,
 Mention the optimal policy, optimal value function , success rate for the optimal policy.
 <img width="854" alt="image" src="https://github.com/KoduruSanathKumarReddy/sarsa-learning/assets/69503902/b28bdfb3-390b-4bb0-a666-3c21728b2392">
 
-<img width="1332" alt="image" src="https://github.com/KoduruSanathKumarReddy/sarsa-learning/assets/69503902/c335bd7c-50d0-4e17-8ae7-c79cea6cea30">
-<img width="1332" alt="image" src="https://github.com/KoduruSanathKumarReddy/sarsa-learning/assets/69503902/c101abbd-968a-4479-aac4-d9bc45cf2fbc">
-
+<img width="1332" alt="image" src="https://github.com/KoduruSanathKumarReddy/sarsa-learning/assets/69503902/e9e0c513-32a2-4d07-b3f9-cf6f87f78757">
+<img width="1326" alt="image" src="https://github.com/KoduruSanathKumarReddy/sarsa-learning/assets/69503902/d154275d-a12f-4071-ac97-dd18a8aecb2b">
 
 
 
