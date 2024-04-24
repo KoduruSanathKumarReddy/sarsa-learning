@@ -9,19 +9,19 @@ SARSA Stands for STATE,ACTION,REWARD,NEXT STATE,NEXT ACTION.
 Train agent with SARSA in Gym environment, making sequential decisions for maximizing cumulative rewards.
 
 ## SARSA LEARNING ALGORITHM
-Step 1:
+### Step 1:
 Initialize the Q-table with random values for all state-action pairs.
 
-Step 2:
+### Step 2:
 Initialize the current state S and choose the initial action A using an epsilon-greedy policy based on the Q-values in the Q-table.
 
-Step 3:
+### Step 3:
 Repeat until the episode ends and then take action A and observe the next state S' and the reward R.
 
-Step 4:
+### Step 4:
 Update the Q-value for the current state-action pair (S, A) using the SARSA update rule.
 
-Step 5:
+### Step 5:
 Update State and Action and repeat the step 3 untill the episodes ends.
 
 
